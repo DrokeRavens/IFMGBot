@@ -1,0 +1,12 @@
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\bin\Debug\netcoreapp3.1\IFMGBot.Domain.deps.json
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\bin\Debug\netcoreapp3.1\IFMGBot.Domain.dll
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\bin\Debug\netcoreapp3.1\IFMGBot.Domain.pdb
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.AssemblyInfoInputs.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.AssemblyInfo.cs
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.dll
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.pdb
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\bin\Debug\netcoreapp3.1\IFMGBot.EF.dll
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\bin\Debug\netcoreapp3.1\IFMGBot.EF.pdb
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.csprojAssemblyReference.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.Domain\obj\Debug\netcoreapp3.1\IFMGBot.Domain.csproj.CopyComplete

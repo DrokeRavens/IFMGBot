@@ -1,0 +1,12 @@
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\bin\Debug\netcoreapp3.1\IFMGBot.EF.deps.json
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\bin\Debug\netcoreapp3.1\IFMGBot.EF.dll
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.csprojAssemblyReference.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.AssemblyInfoInputs.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.AssemblyInfo.cs
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\bin\Debug\netcoreapp3.1\IFMGBot.EF.runtimeconfig.json
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\bin\Debug\netcoreapp3.1\IFMGBot.EF.runtimeconfig.dev.json
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.genruntimeconfig.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\bin\Debug\netcoreapp3.1\IFMGBot.EF.pdb
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.csproj.CoreCompileInputs.cache
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.dll
+C:\Users\jnhol\source\repos\IFMGBot\IFMGBot.EF\obj\Debug\netcoreapp3.1\IFMGBot.EF.pdb
